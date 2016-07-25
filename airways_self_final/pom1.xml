@@ -55,6 +55,10 @@
         <configuration>
             <url>http://23.102.70.5/manager/html</url>
             <server>tomcat</server>
+            <path>/webapp</path>
+            <username>manager</username>
+            <password>bitnami</password>
+    
         </configuration>
         </plugin>
         <plugin>
